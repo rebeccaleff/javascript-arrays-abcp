@@ -4,5 +4,3 @@ function addElementToBeginningOfArray(array, element){
   var array = [1,2,3]
   return array.upshift(4);
 }
-
-
